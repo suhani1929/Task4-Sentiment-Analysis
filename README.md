@@ -122,7 +122,7 @@ This step involved both exploring the sentiment labels and visualizing patterns 
 
 ### 2. Confusion matrix heatmap
 
- ![Image](https://github.com/user-attachments/assets/bdedec20-7636-42be-a7e8-13752289a33b)  
+![Image](https://github.com/user-attachments/assets/31149fa4-7b03-4ab8-b333-6ccd9f0ce997)  
 
 ### 3. Sentiment distribution bar chart
 
