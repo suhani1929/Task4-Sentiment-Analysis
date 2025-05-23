@@ -147,12 +147,12 @@ This step involved both exploring the sentiment labels and visualizing patterns 
 
 ## 📦 Deliverables
 
-- Tweets.csv : Raw dataset used for analysis
-- sentiment_analysis.ipynb : Complete Jupyter Notebook with code, output, and plots
-- sentiment_distribution.png : Sentiment distribution bar chart
-- sentiment_by_airline.png : Sentiment grouped by airline
-- confusion_matrix.png : Confusion matrix heatmap
-- classification_report.png : Screenshot of classification metrics
+- `Tweets.csv` : Raw dataset used for analysis
+- `sentiment_analysis.ipynb` : Complete Jupyter Notebook with code, output, and plots
+- `sentiment_distribution.png` : Sentiment distribution bar chart
+- `sentiment_by_airline.png` : Sentiment grouped by airline
+- `confusion_matrix.png` : Confusion matrix heatmap
+- `classification_report.png` : Screenshot of classification metrics
 
 
       
