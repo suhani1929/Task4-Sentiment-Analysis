@@ -1,10 +1,22 @@
 # Task4-Sentiment-Analysis
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : SUHANI PANCHOLI
+
+INTERN ID : CT04DL1068
+
+DOMAIN : DATA ANALYTICS
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
 ---
 
-#✈️ Twitter Airline Sentiment Analysis Using NLP
+# ✈️ Twitter Airline Sentiment Analysis Using NLP
 
-##📌 Overview
+## 📌 Overview
 - This project performs sentiment analysis on tweets related to major U.S. airlines using Natural Language Processing (NLP) techniques. The goal is to classify tweets into positive, negative, or neutral sentiments and draw insights about customer perception toward different airlines.
 
 - The analysis includes:
