@@ -122,15 +122,15 @@ This step involved both exploring the sentiment labels and visualizing patterns 
 
 ### 2. Confusion matrix heatmap
 
- ![Image](https://github.com/user-attachments/assets/eabd81e4-5159-437f-9174-71f59b232a89)
+ ![Image](https://github.com/user-attachments/assets/bdedec20-7636-42be-a7e8-13752289a33b)  
 
 ### 3. Sentiment distribution bar chart
 
- ![Image](https://github.com/user-attachments/assets/6a44f7a8-6b9f-4407-a901-ddf2e0e18429)
+ ![Image](https://github.com/user-attachments/assets/eabd81e4-5159-437f-9174-71f59b232a89)   
 
 ### 4. Sentiment grouped by airline
 
-
+ ![Image](https://github.com/user-attachments/assets/6a44f7a8-6b9f-4407-a901-ddf2e0e18429)
 
 ---
 
