@@ -36,7 +36,7 @@ MENTOR : NEELA SANTOSH
 ---
 
 ## 📂 Dataset
-- Source: ['Kaggle - Twitter US Airline Sentiment'](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment/data)
+- Source: [Twitter US Airline Sentiment - Kaggle](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment/data)
 
 - Description: This dataset contains tweets from February 2015 about six U.S. airlines, labeled with sentiment and several metadata fields.
 
